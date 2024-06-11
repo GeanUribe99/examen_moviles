@@ -19,7 +19,10 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             AppMovilesEC01Theme {
-                activityJuvilacion()
+                //activityJuvilacion() //Resolucion Primera Pregunta
+                //NumeroMenorActivity() //Resolucion Segunda Pregunta
+                Matricula()//Resolucion Tercera Pregunta
+                //CuadradoActivty()//Resolucion Cuarta Pregunta
             }
         }
     }
